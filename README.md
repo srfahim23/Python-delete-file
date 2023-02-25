@@ -1,2 +1,2 @@
 # Python-delete-file
-I am just keep in up my code testing purpose
+I am loving coding and entertainment
